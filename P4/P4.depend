@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1342744994 source:c:\users\asuspc\desktop\ve280\p4\p4\card.cpp
+	"card.h"
+
+1250335394 c:\users\asuspc\desktop\ve280\p4\p4\card.h
+
+1468491795 source:c:\users\asuspc\desktop\ve280\p4\p4\deck.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<cassert>
+	"deck.h"
+	"card.h"
+	"rand.h"
+
+1342747898 c:\users\asuspc\desktop\ve280\p4\p4\deck.h
+	"card.h"
+
+1342746148 c:\users\asuspc\desktop\ve280\p4\p4\rand.h
+
+1342746148 source:c:\users\asuspc\desktop\ve280\p4\p4\rand.cpp
+	<cstdio>
+	<cassert>
+	"rand.h"
+
+1468491795 source:c:\users\asuspc\desktop\ve280\p4\p4\hand.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<cassert>
+	"hand.h"
+	"card.h"
+	"deck.h"
+
+1467619424 c:\users\asuspc\desktop\ve280\p4\p4\hand.h
+	"card.h"
+
+1468491795 source:c:\users\asuspc\desktop\ve280\p4\p4\player.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<cassert>
+	"hand.h"
+	"card.h"
+	"deck.h"
+	"player.h"
+
+1342745106 c:\users\asuspc\desktop\ve280\p4\p4\player.h
+	"hand.h"
+
+1468491795 source:c:\users\asuspc\desktop\ve280\p4\p4\blackjack.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<cassert>
+	"hand.h"
+	"card.h"
+	"deck.h"
+	"player.h"
+	"rand.h"
+
+1468491795 source:c:\users\lenovo\desktop\ji\大二夏季\ve280\p4\p4\blackjack.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<cassert>
+	"hand.h"
+	"card.h"
+	"deck.h"
+	"player.h"
+	"rand.h"
+
+1467619424 c:\users\lenovo\desktop\ji\大二夏季\ve280\p4\p4\hand.h
+	"card.h"
+
+1250335394 c:\users\lenovo\desktop\ji\大二夏季\ve280\p4\p4\card.h
+
+1342747898 c:\users\lenovo\desktop\ji\大二夏季\ve280\p4\p4\deck.h
+	"card.h"
+
+1342745106 c:\users\lenovo\desktop\ji\大二夏季\ve280\p4\p4\player.h
+	"hand.h"
+
+1342746148 c:\users\lenovo\desktop\ji\大二夏季\ve280\p4\p4\rand.h
+
+1342744994 source:c:\users\lenovo\desktop\ji\大二夏季\ve280\p4\p4\card.cpp
+	"card.h"
+
+1468491795 source:c:\users\lenovo\desktop\ji\大二夏季\ve280\p4\p4\deck.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<cassert>
+	"deck.h"
+	"card.h"
+	"rand.h"
+
+1468491795 source:c:\users\lenovo\desktop\ji\大二夏季\ve280\p4\p4\hand.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<cassert>
+	"hand.h"
+	"card.h"
+	"deck.h"
+
+1468491795 source:c:\users\lenovo\desktop\ji\大二夏季\ve280\p4\p4\player.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<cassert>
+	"hand.h"
+	"card.h"
+	"deck.h"
+	"player.h"
+
+1342746148 source:c:\users\lenovo\desktop\ji\大二夏季\ve280\p4\p4\rand.cpp
+	<cstdio>
+	<cassert>
+	"rand.h"
+
